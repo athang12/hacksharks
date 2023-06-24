@@ -1,0 +1,35 @@
+const booksData = [
+    { id: 1, name: "Fiction", image: "image-url-1" ,isSelected: false},
+    { id: 2, name: "Non-Fiction", image: "image-url-2" ,isSelected: false},
+    { id: 3, name: "Fantasy", image: "image-url-3" ,isSelected: false},
+    { id: 4, name: "Biography", image: "image-url-4" ,isSelected: false},
+    { id: 5, name: "Mystery", image: "image-url-5" ,isSelected: false},
+    { id: 6, name: "Science Fiction", image: "image-url-6" ,isSelected: false},
+    { id: 7, name: "Self-Help", image: "image-url-7" ,isSelected: false},
+    { id: 8, name: "Historical Fiction", image: "image-url-8" ,isSelected: false},
+    { id: 9, name: "Thriller", image: "image-url-9" ,isSelected: false},
+    { id: 10, name: "Romance", image: "image-url-10" ,isSelected: false},
+    { id: 11, name: "Adventure", image: "image-url-11" ,isSelected: false},
+    { id: 12, name: "Poetry", image: "image-url-12" ,isSelected: false},
+    { id: 13, name: "Business", image: "image-url-13" ,isSelected: false},
+    { id: 14, name: "History", image: "image-url-14" ,isSelected: false},
+    { id: 15, name: "Philosophy", image: "image-url-15" ,isSelected: false},
+    { id: 16, name: "Travel", image: "image-url-16" ,isSelected: false},
+    { id: 17, name: "Children's", image: "image-url-17" ,isSelected: false},
+    { id: 18, name: "Art", image: "image-url-18" ,isSelected: false},
+    { id: 19, name: "Cooking", image: "image-url-19" ,isSelected: false},
+    { id: 20, name: "Science", image: "image-url-20" ,isSelected: false},
+    { id: 21, name: "Religion", image: "image-url-21" ,isSelected: false},
+    { id: 22, name: "Psychology", image: "image-url-22" ,isSelected: false},
+    { id: 23, name: "Health", image: "image-url-23" ,isSelected: false},
+    { id: 24, name: "Sports", image: "image-url-24" ,isSelected: false},
+    { id: 25, name: "Drama", image: "image-url-25" ,isSelected: false},
+    { id: 26, name: "Music", image: "image-url-26" ,isSelected: false},
+    { id: 27, name: "Economics", image: "image-url-27" ,isSelected: false},
+    { id: 28, name: "Science Fiction", image: "image-url-28" ,isSelected: false},
+    { id: 29, name: "Biography", image: "image-url-29" ,isSelected: false},
+    { id: 30, name: "Classics", image: "image-url-30" ,isSelected: false}
+  ];
+  
+  export default booksData;
+  

@@ -1,0 +1,35 @@
+const hobbiesData = [
+    { id: 1, name: "Drawing", image: "image-url-1" ,isSelected: false},
+    { id: 2, name: "Photography", image: "image-url-2" ,isSelected: false},
+    { id: 3, name: "Gardening", image: "image-url-3" ,isSelected: false},
+    { id: 4, name: "Cooking", image: "image-url-4" ,isSelected: false},
+    { id: 5, name: "Crafts", image: "image-url-5" ,isSelected: false},
+    { id: 6, name: "Painting", image: "image-url-6" ,isSelected: false},
+    { id: 7, name: "Reading", image: "image-url-7" ,isSelected: false},
+    { id: 8, name: "Writing", image: "image-url-8" ,isSelected: false},
+    { id: 9, name: "Singing", image: "image-url-9" ,isSelected: false},
+    { id: 10, name: "Dancing", image: "image-url-10" ,isSelected: false},
+    { id: 11, name: "Playing an Instrument", image: "image-url-11" ,isSelected: false},
+    { id: 12, name: "Yoga", image: "image-url-12" ,isSelected: false},
+    { id: 13, name: "Meditation", image: "image-url-13" ,isSelected: false},
+    { id: 14, name: "Sports", image: "image-url-14" ,isSelected: false},
+    { id: 15, name: "Gaming", image: "image-url-15" ,isSelected: false},
+    { id: 16, name: "Collecting", image: "image-url-16" ,isSelected: false},
+    { id: 17, name: "DIY Projects", image: "image-url-17" ,isSelected: false},
+    { id: 18, name: "Hiking", image: "image-url-18" ,isSelected: false},
+    { id: 19, name: "Cycling", image: "image-url-19" ,isSelected: false},
+    { id: 20, name: "Travelling", image: "image-url-20" ,isSelected: false},
+    { id: 21, name: "Bird Watching", image: "image-url-21" ,isSelected: false},
+    { id: 22, name: "Fishing", image: "image-url-22" ,isSelected: false},
+    { id: 23, name: "Knitting", image: "image-url-23" ,isSelected: false},
+    { id: 24, name: "Woodworking", image: "image-url-24" ,isSelected: false},
+    { id: 25, name: "Sculpting", image: "image-url-25" ,isSelected: false},
+    { id: 26, name: "Model Building", image: "image-url-26" ,isSelected: false},
+    { id: 27, name: "Pottery", image: "image-url-27" ,isSelected: false},
+    { id: 28, name: "Calligraphy", image: "image-url-28" ,isSelected: false},
+    { id: 29, name: "Origami", image: "image-url-29" ,isSelected: false},
+    { id: 30, name: "Chess", image: "image-url-30" ,isSelected: false}
+  ];
+  
+  export default hobbiesData;
+ 

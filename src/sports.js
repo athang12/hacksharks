@@ -1,0 +1,35 @@
+const sportsData = [
+    { id: 1, name: "Football", image: "image-url-1" ,isSelected: false},
+    { id: 2, name: "Basketball", image: "image-url-2" ,isSelected: false},
+    { id: 3, name: "Tennis", image: "image-url-3" ,isSelected: false},
+    { id: 4, name: "Cricket", image: "image-url-4" ,isSelected: false},
+    { id: 5, name: "Swimming", image: "image-url-5" ,isSelected: false},
+    { id: 6, name: "Baseball", image: "image-url-6" ,isSelected: false},
+    { id: 7, name: "Soccer", image: "image-url-7" ,isSelected: false},
+    { id: 8, name: "Golf", image: "image-url-8" ,isSelected: false},
+    { id: 9, name: "Hockey", image: "image-url-9" ,isSelected: false},
+    { id: 10, name: "Volleyball", image: "image-url-10" ,isSelected: false},
+    { id: 11, name: "Rugby", image: "image-url-11" ,isSelected: false},
+    { id: 12, name: "Badminton", image: "image-url-12" ,isSelected: false},
+    { id: 13, name: "Athletics", image: "image-url-13" ,isSelected: false},
+    { id: 14, name: "Gymnastics", image: "image-url-14" ,isSelected: false},
+    { id: 15, name: "Boxing", image: "image-url-15" ,isSelected: false},
+    { id: 16, name: "Wrestling", image: "image-url-16" ,isSelected: false},
+    { id: 17, name: "Cycling", image: "image-url-17" ,isSelected: false},
+    { id: 18, name: "Table Tennis", image: "image-url-18" ,isSelected: false},
+    { id: 19, name: "Skateboarding", image: "image-url-19" ,isSelected: false},
+    { id: 20, name: "Snowboarding", image: "image-url-20" ,isSelected: false},
+    { id: 21, name: "Surfing", image: "image-url-21" ,isSelected: false},
+    { id: 22, name: "Martial Arts", image: "image-url-22" ,isSelected: false},
+    { id: 23, name: "Cricket", image: "image-url-23" ,isSelected: false},
+    { id: 24, name: "Fencing", image: "image-url-24" ,isSelected: false},
+    { id: 25, name: "Bowling", image: "image-url-25" ,isSelected: false},
+    { id: 26, name: "Skiing", image: "image-url-26" ,isSelected: false},
+    { id: 27, name: "Archery", image: "image-url-27" ,isSelected: false},
+    { id: 28, name: "Triathlon", image: "image-url-28" ,isSelected: false},
+    { id: 29, name: "Horse Riding", image: "image-url-29" ,isSelected: false},
+    { id: 30, name: "Motorsport", image: "image-url-30" ,isSelected: false}
+  ];
+  
+  export default sportsData;
+ 
